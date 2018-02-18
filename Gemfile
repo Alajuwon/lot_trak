@@ -45,7 +45,7 @@ gem 'bootstrap'
 gem 'hirb' 
 gem 'capybara', '~> 2.15', '>= 2.15.4'
 gem 'geocoder'   #for coordinates(automatic look-up)
-
+gem 'devise'
 gem 'better_errors' , group: :development
 
 #for Heroku:
